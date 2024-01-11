@@ -9,7 +9,7 @@
 5 семинар - Работа с пропусками.\
 6 семинар - Продвинутые методы работы с данными. (PCA, t-sne, K-means, HDBSCAN) \
 7 семинар - Feature Engineering \
-8 семинар - Feature Selection \
+8 семинар - Feature Selection 
 
 # 🙈 Домашнее задание
 1 - https://www.kaggle.com/competitions/mlai-dstu-regression \
